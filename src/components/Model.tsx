@@ -9,7 +9,7 @@ export function Model(props) {
     <group
       position={[0, -0.15, 0]}
       rotation={[0, Math.PI, 0]}
-      scale={[0.02, 0.02, 0.02]}
+      scale={[0.1, 0.1, 0.1]}
       {...props}
       dispose={null}
     >
